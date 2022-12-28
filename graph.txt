@@ -1,0 +1,13 @@
+* 175e85f agregando las estaciones del año
+*   c7e2446 resolviendo el conflicto
+|\  
+| * 0edc52d agregando script
+* | a65775a agregando style al html
+|/  
+* fb82aec index
+* f744dd5 merge
+* fef6241 creando styles.css
+* 5193d63 creando index.html
+* 1075fc9 ignore vs
+* a3a22a2 ignorando .exe
+* 3d135bb inicio de proyecto
